@@ -185,4 +185,16 @@ body {
 		display: flex;
 		flex-direction: column;
 	}
+
+	.box-1 {
+		margin: 1rem 1rem 0 1rem;
+	}
+
+	.box-2, .box-3, .box-4 {
+		margin: 0 1rem 0 1rem;
+	}
+
+	.box-5 {
+		margin: 0 1rem 1rem 1rem;
+	}
 }
