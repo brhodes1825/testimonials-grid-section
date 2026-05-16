@@ -39,7 +39,7 @@ body {
 	display: grid;
 	grid-template-rows: repeat(2, 10rem);
 	grid-template-columns: repeat(4, 10rem);
-	gap: 1rem;
+	gap: 2rem;
 }
 
 .graduate-info {
