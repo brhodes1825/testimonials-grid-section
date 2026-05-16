@@ -87,7 +87,7 @@ body {
 	background-image: url("bg-pattern-quotation.svg");
 	background-color: var(--purple-500); 
 	background-repeat: no-repeat;
-	background-position: right 9rem bottom 15rem;
+	background-position: right 9.5rem bottom 12rem;
 }
 
 .box-1 .name-stack {
@@ -188,6 +188,7 @@ body {
 
 	.box-1 {
 		margin: 2rem 2rem 0 2rem;
+		background-position: right 6rem top .5rem;
 	}
 
 	.box-2, .box-3, .box-4 {
