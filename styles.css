@@ -52,8 +52,8 @@ body {
 
 .graduate-info img {
 	border-radius: 50%;
-	width: 1rem;
-	height: 1rem;
+	width: 2rem;
+	height: 2rem;
 }
 
 .graduate-info .name-stack {
@@ -173,7 +173,7 @@ body {
 }
 
 .box-1, .box-2, .box-3, .box-4, .box-5 {
-	padding: 1rem;
+	padding: 2rem;
 	border-radius: .5rem;
 	box-shadow: 14px 13px 27px 8px #D9DBDD;
 }
